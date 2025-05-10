@@ -1,4 +1,4 @@
-# angular
+# Angular
 ## Setup 
 <details>
   <summary>Click to expand!</summary>
@@ -19,4 +19,15 @@ Angular version
 
 For Tutorials
 https://angular.dev/
+</details>
+
+## Create First Project 
 <details>
+  <summary>Click to expand!</summary>
+
+  Terminal-> ``` ng new CreateFirstProject ``` <br>
+  Npm model-> ``` npm install ``` <br>
+  Run -> ``` ng serve ``` <br>
+  Open -> ``` ng serve --o ```  <br>
+  Change Port -> ``` ng serve --port 4204 ``` <br>
+</details>
